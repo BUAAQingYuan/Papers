@@ -12,3 +12,6 @@ Learning with the Parameter Server
 [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic
 Gradient Descent
 ](https://arxiv.org/pdf/1106.5730v2.pdf)
+
+[Distributed Inference for Latent Dirichlet Allocation
+](http://www.ics.uci.edu/~newman/pubs/NIPS2007.FINAL.pdf)
