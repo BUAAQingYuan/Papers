@@ -15,3 +15,5 @@ Gradient Descent
 
 [Distributed Inference for Latent Dirichlet Allocation
 ](http://www.ics.uci.edu/~newman/pubs/NIPS2007.FINAL.pdf)
+
+[RABIT: A Reliable Allreduce and Broadcast Interface](http://x-algo.cn/wp-content/uploads/2016/09/rabit.pdf)
