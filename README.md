@@ -27,3 +27,5 @@ Gradient Descent
 
 [Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://arxiv.org/pdf/1706.08502.pdf)  [[code]](https://github.com/batra-mlp-lab/lang-emerge)
 
+[Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
+
