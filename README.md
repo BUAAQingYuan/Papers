@@ -25,5 +25,5 @@ Gradient Descent
 
 [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/pdf/1704.07130.pdf)
 
-[NaturalLanguageDoesNotEmerge‘Naturally’inMulti-AgentDialog](https://arxiv.org/pdf/1706.08502.pdf)
+[Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog](https://arxiv.org/pdf/1706.08502.pdf)
 
