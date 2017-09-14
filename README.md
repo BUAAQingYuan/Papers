@@ -29,3 +29,6 @@ Gradient Descent
 
 [Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf)
 
+### Summarization
+[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf) [[code]](https://github.com/abisee/pointer-generator)
+
