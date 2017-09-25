@@ -32,3 +32,7 @@ Gradient Descent
 ### Summarization
 [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf) [[code]](https://github.com/abisee/pointer-generator)
 
+### Deep Learning for Recommender Systems
+
+[Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
+
