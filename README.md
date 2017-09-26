@@ -37,3 +37,10 @@ Gradient Descent
 
 [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
 
+### Variational Auto-Encoder
+
+[VARIATIONAL RECURRENT AUTO-ENCODERS](https://arxiv.org/pdf/1412.6581.pdf)
+
+[Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
+
+[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
