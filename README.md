@@ -44,3 +44,7 @@ Gradient Descent
 [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
 
 [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+
+### Dialogue Systems
+
+[A Context-aware Natural Language Generator for Dialogue Systems](https://arxiv.org/pdf/1608.07076.pdf)
